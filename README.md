@@ -1,17 +1,15 @@
-## Hi there my gorgeous friend <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi Everyone <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/learnwithsumit). I Spend most of time coding outstanding projects or recording tutorials.
+I'm Md Omar Faruk, a Junior Web Application Developer from <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/> Bangladesh
 
 :coffee: &emsp;Connect with me!
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sumit.analyzen) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/learnwithsumit) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitanalyzen/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/learnwithsumit) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sumit_analyzen) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayhitorainmaker@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/omarfaruk9345/) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/MdOmarFaruk45) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarfaruk9345/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md_omar.faruk/?hl=en) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Farukomarfci) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akomarfci@gmail.com)
 
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
-:e-mail: &emsp;How to reach me: sayhitorainmaker@gmail.com.<br/>
-⚡ &emsp;Fun fact: I co-founded my country's first ever and largest digital marketing agency Analyzen.
+:e-mail: &emsp;How to reach me: akomarfci@gmail.com<br/>
 
 #### Things I code with
 
