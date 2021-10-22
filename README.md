@@ -42,6 +42,16 @@ I'm Md Omar Faruk, a Junior Web Application Developer from <img src="https://ima
       <td>Library Managment Software</td>
       <td>0 clients</td>
     </tr>
+    <tr>
+      <td><a href="http://apps.digiins.gov.bd/" target="_blank">School Apps</a></td>
+      <td>School Managment Software</td>
+      <td>715 clients</td>
+    </tr>
+    <tr>
+      <td><a href="http://fenipaurashava.gov.bd/" target="_blank">Digital Municipility</a></td>
+      <td>Municipility Managment Software</td>
+      <td>8 clients</td>
+    </tr>
   </tbody>
 </table>
 
