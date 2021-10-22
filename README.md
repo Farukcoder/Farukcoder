@@ -10,7 +10,8 @@ I'm Md Omar Faruk, a Junior Web Application Developer from <img src="https://ima
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 :e-mail: &emsp;How to reach me: akomarfci@gmail.com<br/>
-:portfolio: &emsp;It's My Portfolio: https://farukcoder.github.io/Portfolio-master/<br/>
+👨‍💻: &emsp;It's My Portfolio: https://farukcoder.github.io/Portfolio-master/<br/>
+📄: &emsp;Know about my experiences: https://farukcoder.github.io/Portfolio-master/cv/Md_Omar_Faruk_CV.pdf<br/>
 <!-- 
 #### Things I code with
 
