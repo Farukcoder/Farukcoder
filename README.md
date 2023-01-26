@@ -25,35 +25,72 @@ I'm Md Omar Faruk, a Software Developer from <img src="https://image.flaticon.co
     <tr border: none;>
       <td><b>Projects</b></td>
       <td><b>Description</b></td>
+      <td><b>Technology</b></td>
       <td><b>Responses</b></td>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="http://vehicleapps.comillalg.gov.bd/" target="_blank">Vehical Apps</a></td>
-      <td>Vehicla Managment Web Application</td>
-      <td>1 Organization(fenipaurashava)</td>
+     <tr>
+      <td><a href="https://landac.lggazipur.com/" target="_blank">Landac</a></td>
+      <td>Land Acquisition Management Software</td>
+      <td>html,css,bootstrap,js,ajax,PHP,Codeignetor </td>
+      <td>1 Organization(Gazipur District)</td>
     </tr>
     <tr>
-      <td><a href="http://onlinepashurhatfeni.com/" target="_blank">Online Pashurhat Feni</a></td>
-      <td>Online Pashurhat Feni Web Application and API</td>
-      <td>1+ clients</td>
+      <td><a href="http://upsebafeni.com/" target="_blank">Union_apps</a></td>
+      <td>Digital Union Managment Software</td>
+      <td>html,css,bootstrap,js,ajax,PHP,Laravel (API for mobile application)</td>
+      <td>44 Organization(All Union Feni District)</td>
     </tr>
     <tr>
-      <td><a href="http://elibrary.digiins.gov.bd/" target="_blank">E-library</a></td>
-      <td>Library Managment Software</td>
-      <td>0 clients</td>
+      <td><a href="http://promise.gov.bd/" target="_blank">Promise</a></td>
+      <td>Promise Municipality Management Software</td>
+      <td>html,css,bootstrap,js,ajax,Raw PHP</td>
+      <td>330 Organization(in Bangladesh)</td>
     </tr>
     <tr>
-      <td><a href="http://apps.digiins.gov.bd/" target="_blank">School Apps</a></td>
-      <td>School Managment Software</td>
-      <td>715 clients</td>
+      <td><a href="http://comillalg.gov.bd/" target="_blank">Union_apps</a></td>
+      <td>Digital Union Managment Software</td>
+      <td>html,css,bootstrap,js,ajax,PHP,Codeigniter</td>
+      <td>44 Organization(All Union Feni District)</td>
     </tr>
     <tr>
       <td><a href="http://fenipaurashava.gov.bd/" target="_blank">Digital Municipility</a></td>
       <td>Municipility Managment Software</td>
-      <td>8 clients</td>
+      <td>html,css,bootstrap,js,ajax,PHP,Laravel (API for mobile application)</td>
+      <td>8 clients(Fenipaurashava,Madhukhalipaurashava,Dhamraipaurashava,Bhangapourashava,Sirajpourashava)</td>
     </tr>
+    <tr>
+      <td><a href="http://apps.digiins.net/" target="_blank">School Apps</a></td>
+      <td>School Managment Software</td>
+      <td>html,css,bootstrap,js,ajax,PHP,Codeigniter (API for mobile application)</td>
+      <td>715 clients</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.amarbrick.com/" target="_blank">Brick_app</a></td>
+      <td>Brickfield Managment Software</td>
+      <td>html,css,bootstrap,js,ajax,PHP,Laravel (API for mobile application)</td>
+      <td>1 Organization(chadpurbriks)</td>
+    </tr>
+    <tr>
+      <td><a href="http://vehicleapps.comillalg.gov.bd/" target="_blank">Vehical Apps</a></td>
+      <td>Vehicla Managment Web Application</td>
+      <td>html,css,bootstrap,js,ajax,PHP,Laravel (API for mobile application)</td>
+      <td>1 Organization(fenipaurashava)</td>
+    </tr>
+    <tr>
+      <td><a href="https://play.google.com/store/apps/details?id=bd.gov.fenipaurashava&hl=en&gl=US" target="_blank">Fenir Mayor</a></td>
+      <td>Fenir Mayor Mobile Application</td>
+      <td>Laravel Lumen (API for mobile application)</td>
+      <td>1+ clients</td>
+    </tr>
+    <tr>
+      <td><a href="http://onlinepashurhatfeni.com/" target="_blank">Online Pashurhat Feni</a></td>
+      <td>Online Pashurhat Feni Web Application and API</td>
+      <td>html,css,bootstrap,js,ajax,PHP,Laravel (API for mobile application)</td>
+      <td>1+ clients</td>
+    </tr>
+
   </tbody>
 </table>
 
