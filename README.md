@@ -45,8 +45,8 @@ I'm Md Omar Faruk, a Software Developer from <img src="https://image.flaticon.co
     <tr>
       <td><a href="https://hisab365.com/" target="_blank">POS Hisab365</a></td>
       <td>Point of Sale Management Software</td>
-      <td>html,css,bootstrap,js,ajax,PHP,Codeignetor </td>
-      <td>1 Organization(Gazipur District)</td>
+      <td>html,css,bootstrap,js,ajax,PHP,Laravel </td>
+      <td>5+ Organization</td>
     </tr>
     <tr>
       <td><a href="http://promise.gov.bd/" target="_blank">Promise</a></td>
@@ -80,7 +80,7 @@ I'm Md Omar Faruk, a Software Developer from <img src="https://image.flaticon.co
     </tr>
     <tr>
       <td><a href="http://vehicleapps.comillalg.gov.bd/" target="_blank">Vehical Apps</a></td>
-      <td>Vehicla Managment Web Application</td>
+      <td>Vehicla Managment Software</td>
       <td>html,css,bootstrap,js,ajax,PHP,Laravel (API for mobile application)</td>
       <td>1 Organization(fenipaurashava)</td>
     </tr>
