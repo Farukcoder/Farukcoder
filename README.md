@@ -43,6 +43,12 @@ I'm Md Omar Faruk, a Software Developer from <img src="https://image.flaticon.co
       <td>44 Organization(All Union Feni District)</td>
     </tr>
     <tr>
+      <td><a href="https://hisab365.com/" target="_blank">POS Hisab365</a></td>
+      <td>Point of Sale Management Software</td>
+      <td>html,css,bootstrap,js,ajax,PHP,Codeignetor </td>
+      <td>1 Organization(Gazipur District)</td>
+    </tr>
+    <tr>
       <td><a href="http://promise.gov.bd/" target="_blank">Promise</a></td>
       <td>Promise Municipality Management Software</td>
       <td>html,css,bootstrap,js,ajax,Raw PHP</td>
