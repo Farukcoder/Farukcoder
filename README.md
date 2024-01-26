@@ -46,37 +46,37 @@ I'm Md Omar Faruk, a Software Developer from <img src="https://image.flaticon.co
       <td><a href="https://comillalg.gov.bd/" target="_blank">Digital Union Managment</a></td>
       <td>Union Managment Software</td>
       <td>html,css,bootstrap,js,ajax,PHP,Codeigniter</td>
-      <td>44 Organization(All Union Feni District)</td>
+      <td>5+ District</td>
     </tr>
     <tr>
       <td><a href="https://hathazaripourashava.gov.bd/" target="_blank">Smart Municipility</a></td>
       <td>Municipility Managment Software</td>
       <td>html,css,bootstrap,js,ajax,PHP,Laravel (API for mobile application),Porichoy API Implement</td>
-      <td>8 clients(Fenipaurashava,Madhukhalipaurashava,Dhamraipaurashava,Bhangapourashava,Sirajpourashava)</td>
+      <td>10+ clients</td>
     </tr>
     <tr>
       <td><a href="https://apps.digiins.net/" target="_blank">Smart School Managment</a></td>
       <td>School Managment Software</td>
       <td>html,css,bootstrap,js,ajax,PHP,Codeigniter (API for mobile application)</td>
-      <td>715 clients</td>
+      <td>715+ School</td>
     </tr>
     <tr>
       <td><a href="https://amarbrick.com/" target="_blank">Brickfield Managment</a></td>
       <td>Brickfield Managment Software</td>
       <td>html,css,bootstrap,js,ajax,PHP,Laravel (API for mobile application)</td>
-      <td>1 Organization(chadpurbriks)</td>
+      <td>1+ Brickfield</td>
     </tr>
     <tr>
       <td><a href="http://vehicleapps.comillalg.gov.bd/" target="_blank">Vehical Apps</a></td>
       <td>Vehicla Managment Software</td>
       <td>html,css,bootstrap,js,ajax,PHP,Laravel (API for mobile application)</td>
-      <td>1 Organization(fenipaurashava)</td>
+      <td>1+ Organization</td>
     </tr>
     <tr>
-      <td><a href="https://play.google.com/store/apps/details?id=bd.gov.fenipaurashava&hl=en&gl=US" target="_blank">Fenir Mayor</a></td>
-      <td>Fenir Mayor Mobile Application</td>
+      <td><a href="https://play.google.com/store/apps/details?id=bd.gov.fenipaurashava&hl=en&gl=US" target="_blank">Mayor App</a></td>
+      <td>Mayor Mobile Application</td>
       <td>Laravel Lumen (API for mobile application)</td>
-      <td>1+ clients</td>
+      <td>4+ clients</td>
     </tr>
 
   </tbody>
