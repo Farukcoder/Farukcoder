@@ -31,6 +31,12 @@ I'm Md Omar Faruk, a Software Developer from <img src="https://image.flaticon.co
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://corporate.ekdak.com/" target="_blank">Corporate Booking System</a></td>
+      <td>Corporate Booking System</td>
+      <td>html,css,bootstrap,js,ajax,PHP,Laravel (Third Party API)</td>
+      <td>Bangladesh Post Office, Tejgaon</td>
+    </tr>
+    <tr>
       <td><a href="https://smartup.comillalg.gov.bd/" target="_blank">Smart Union</a></td>
       <td>Union Managment Software</td>
       <td>html,css,bootstrap,js,ajax,PHP,Laravel (API for mobile application)</td>
