@@ -8,7 +8,7 @@ I'm Md Omar Faruk, a Software Developer from <img src="https://image.flaticon.co
 
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+:computer: &emsp;Most used line of code `fmt.Println("hello world")`, `console.log("hello world")` <br/>
 :e-mail: &emsp;How to reach me: akomarfci@gmail.com<br/>
 👨‍💻 &emsp;It's My Portfolio: https://faruk.dtopnotch.com/<br/>
 📄 &emsp;Know about my experiences: https://farukcoder.github.io/portfolio_master/cv/Md_Omar_Faruk_CV.pdf<br/>
