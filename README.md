@@ -33,49 +33,55 @@ I'm Md Omar Faruk, a Software Developer from <img src="https://image.flaticon.co
     <tr>
       <td><a href="https://corporate.ekdak.com/" target="_blank">Corporate Booking System</a></td>
       <td>Corporate Booking System</td>
-      <td>html,css,bootstrap,js,ajax,PHP,Laravel (Third Party API)</td>
-      <td>Bangladesh Post Office, Tejgaon</td>
+      <td>Bootstrap, jQuery, Ajax, PHP, Laravel (Third Party API)</td>
+      <td>Bangladesh Post Office</td>
+    </tr>
+    <tr>
+      <td><a href="https://brta2.bpodms.gov.bd/" target="_blank">Driving License Booking system</a></td>
+      <td>Driving License Booking system</td>
+      <td>Bootstrap, jQuery, Ajax, PHP, Laravel (Third Party API)</td>
+      <td>Bangladesh Post Office</td>
+    </tr>
+    <tr>
+      <td><a href="https://dakbazar.bpodms.gov.bd/" target="_blank">Dak bazar</a></td>
+      <td>Dak bazar</td>
+      <td>Bootstrap, jQuery, Ajax, Vue JS, PHP, Laravel, (Third Party API)</td>
+      <td>Bangladesh Post Office</td>
     </tr>
     <tr>
       <td><a href="https://smartup.comillalg.gov.bd/" target="_blank">Smart Union</a></td>
       <td>Union Managment Software</td>
-      <td>html,css,bootstrap,js,ajax,PHP,Laravel (API for mobile application)</td>
-      <td>44 Organization(All Union Feni District)</td>
+      <td>Bootstrap, jQuery, Ajax, PHP, Laravel (API for mobile application)</td>
+      <td>44 Organization(Comilla, Feni, Gazipur, Dhaka, Narsingdi Districts)</td>
     </tr>
     <tr>
       <td><a href="https://hisab365.com/" target="_blank">POS Hisab365</a></td>
       <td>Point of Sale Management Software</td>
-      <td>html,css,bootstrap,js,ajax,PHP,Laravel </td>
+      <td>Bootstrap, jQuery, Ajax, PHP, Laravel</td>
       <td>5+ Organization</td>
-    </tr>
-    <tr>
-      <td><a href="https://comillalg.gov.bd/" target="_blank">Digital Union Managment</a></td>
-      <td>Union Managment Software</td>
-      <td>html,css,bootstrap,js,ajax,PHP,Codeigniter</td>
-      <td>5+ District</td>
     </tr>
     <tr>
       <td><a href="https://hathazaripourashava.gov.bd/" target="_blank">Smart Municipility</a></td>
       <td>Municipility Managment Software</td>
-      <td>html,css,bootstrap,js,ajax,PHP,Laravel (API for mobile application),Porichoy API Implement</td>
+      <td>Bootstrap, jQuery, Ajax, PHP, Laravel (API for mobile application), Porichoy API Implement</td>
       <td>10+ clients</td>
     </tr>
     <tr>
       <td><a href="https://apps.digiins.net/" target="_blank">Smart School Managment</a></td>
       <td>School Managment Software</td>
-      <td>html,css,bootstrap,js,ajax,PHP,Codeigniter (API for mobile application)</td>
+      <td>Bootstrap, jQuery, Ajax, PHP, Codeigniter (API for mobile application)</td>
       <td>715+ School</td>
     </tr>
     <tr>
       <td><a href="https://amarbrick.com/" target="_blank">Brickfield Managment</a></td>
       <td>Brickfield Managment Software</td>
-      <td>html,css,bootstrap,js,ajax,PHP,Laravel (API for mobile application)</td>
+      <td>Bootstrap, jQuery, Ajax, PHP, Laravel (API for mobile application)</td>
       <td>1+ Brickfield</td>
     </tr>
     <tr>
       <td><a href="http://vehicleapps.comillalg.gov.bd/" target="_blank">Vehical Apps</a></td>
       <td>Vehicla Managment Software</td>
-      <td>html,css,bootstrap,js,ajax,PHP,Laravel (API for mobile application)</td>
+      <td>Bootstrap, jQuery, Ajax, PHP, Laravel (API for mobile application)</td>
       <td>1+ Organization</td>
     </tr>
     <tr>
